@@ -1,0 +1,11 @@
+D:\ASPNET\入院管理站\bin\Debug\入院管理站.exe.config
+D:\ASPNET\入院管理站\bin\Debug\入院管理站.exe
+D:\ASPNET\入院管理站\bin\Debug\入院管理站.pdb
+D:\ASPNET\入院管理站\obj\Debug\入院管理站.csproj.AssemblyReference.cache
+D:\ASPNET\入院管理站\obj\Debug\入院管理站.csproj.SuggestedBindingRedirects.cache
+D:\ASPNET\入院管理站\obj\Debug\入院管理站.Login.resources
+D:\ASPNET\入院管理站\obj\Debug\入院管理站.Properties.Resources.resources
+D:\ASPNET\入院管理站\obj\Debug\入院管理站.csproj.GenerateResource.cache
+D:\ASPNET\入院管理站\obj\Debug\入院管理站.csproj.CoreCompileInputs.cache
+D:\ASPNET\入院管理站\obj\Debug\入院管理站.exe
+D:\ASPNET\入院管理站\obj\Debug\入院管理站.pdb
